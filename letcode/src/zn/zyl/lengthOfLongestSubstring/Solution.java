@@ -3,6 +3,9 @@ package zn.zyl.lengthOfLongestSubstring;
 import java.util.HashSet;
 import java.util.Set;
 
+/**
+ * 第三题 最长不重复字符串
+ */
 public class Solution {
     public static int lengthOfLongestSubstring(String s) {
         char[] chars = s.toCharArray();
